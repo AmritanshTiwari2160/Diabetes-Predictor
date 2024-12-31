@@ -9,7 +9,9 @@ There are 4 models:
 3. Diabetes_model_randomforest.pkl
 4. Diabetes_model_xgbclassifier.pkl
 
-From these 4 models, Diabetes_model_all and Diabetes_model_randomforest could not be uploaded due to large size.<br>
+From these 4 models, Diabetes_model_all and Diabetes_model_randomforest could not be uploaded due to large size.
+<br>
+<br>
 **To view all the project files with all the model files, please visit:** https://drive.google.com/drive/folders/1DaL7hMjSVc65gZu5QrWFPrFI2EljEdJ2?usp=drive_link
 
 ## 💡 Features
