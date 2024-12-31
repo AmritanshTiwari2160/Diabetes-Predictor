@@ -1,5 +1,5 @@
 # Diabetes Predictor
-The Diabetes Predictor leverages machine learning algorithms like SVM to predict the likelihood of diabetes in individuals based on various health metrics. This tool aims to assist healthcare professionals and individuals in making early and informed health decisions.
+The Diabetes Predictor leverages machine learning algorithms like SVM and Random Forest to predict the likelihood of diabetes in individuals based on various health metrics. This tool aims to assist healthcare professionals and individuals in making early and informed health decisions.
 
 ## 📂 Project Structure
 The project includes pretrained models for efficient diabetes prediction, but please note that due to size limitations, the combined model Diabetes_model_all is not included here. You can easily use the available models or train your own for better accuracy.
