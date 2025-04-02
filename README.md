@@ -19,7 +19,3 @@ The project consists of the following pretrained models:
 
 ## Results
 The models have shown promising results on real-world datasets, **achieving high accuracy of 95%** in predicting diabetes risk based on health data provided by the user.
-
-## Key Insights
-![Alt Text](./Insights/Img1.png)
-![Alt Text](./Insights/Img2.png)
